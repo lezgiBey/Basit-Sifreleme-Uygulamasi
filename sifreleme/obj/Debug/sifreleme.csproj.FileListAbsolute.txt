@@ -1,0 +1,41 @@
+C:\Users\ULUDAG\Desktop\sifreleme\sifreleme\bin\Debug\sifreleme.exe.config
+C:\Users\ULUDAG\Desktop\sifreleme\sifreleme\bin\Debug\sifreleme.exe
+C:\Users\ULUDAG\Desktop\sifreleme\sifreleme\bin\Debug\sifreleme.pdb
+C:\Users\ULUDAG\Desktop\sifreleme\sifreleme\obj\Debug\sifreleme.Form1.resources
+C:\Users\ULUDAG\Desktop\sifreleme\sifreleme\obj\Debug\sifreleme.Properties.Resources.resources
+C:\Users\ULUDAG\Desktop\sifreleme\sifreleme\obj\Debug\sifreleme.csproj.GenerateResource.cache
+C:\Users\ULUDAG\Desktop\sifreleme\sifreleme\obj\Debug\sifreleme.csproj.CoreCompileInputs.cache
+C:\Users\ULUDAG\Desktop\sifreleme\sifreleme\obj\Debug\sifreleme.exe
+C:\Users\ULUDAG\Desktop\sifreleme\sifreleme\obj\Debug\sifreleme.pdb
+C:\Users\ULUDAG\Desktop\sifreleme\sifreleme\obj\Debug\sifreleme.csprojAssemblyReference.cache
+E:\._. .-. okulÇalişma\sifreleme\sifreleme\bin\Debug\sifreleme.exe.config
+E:\._. .-. okulÇalişma\sifreleme\sifreleme\bin\Debug\sifreleme.exe
+E:\._. .-. okulÇalişma\sifreleme\sifreleme\bin\Debug\sifreleme.pdb
+E:\._. .-. okulÇalişma\sifreleme\sifreleme\obj\Debug\sifreleme.csprojAssemblyReference.cache
+E:\._. .-. okulÇalişma\sifreleme\sifreleme\obj\Debug\sifreleme.Form1.resources
+E:\._. .-. okulÇalişma\sifreleme\sifreleme\obj\Debug\sifreleme.Properties.Resources.resources
+E:\._. .-. okulÇalişma\sifreleme\sifreleme\obj\Debug\sifreleme.csproj.GenerateResource.cache
+E:\._. .-. okulÇalişma\sifreleme\sifreleme\obj\Debug\sifreleme.csproj.CoreCompileInputs.cache
+E:\._. .-. okulÇalişma\sifreleme\sifreleme\obj\Debug\sifreleme.exe
+E:\._. .-. okulÇalişma\sifreleme\sifreleme\obj\Debug\sifreleme.pdb
+D:\._. .-. okulÇalişma\sifreleme\sifreleme\bin\Debug\sifreleme.exe.config
+D:\._. .-. okulÇalişma\sifreleme\sifreleme\bin\Debug\sifreleme.exe
+D:\._. .-. okulÇalişma\sifreleme\sifreleme\bin\Debug\sifreleme.pdb
+D:\._. .-. okulÇalişma\sifreleme\sifreleme\obj\Debug\sifreleme.csprojAssemblyReference.cache
+D:\._. .-. okulÇalişma\sifreleme\sifreleme\obj\Debug\sifreleme.Form1.resources
+D:\._. .-. okulÇalişma\sifreleme\sifreleme\obj\Debug\sifreleme.Properties.Resources.resources
+D:\._. .-. okulÇalişma\sifreleme\sifreleme\obj\Debug\sifreleme.csproj.GenerateResource.cache
+D:\._. .-. okulÇalişma\sifreleme\sifreleme\obj\Debug\sifreleme.csproj.CoreCompileInputs.cache
+D:\._. .-. okulÇalişma\sifreleme\sifreleme\obj\Debug\sifreleme.exe
+D:\._. .-. okulÇalişma\sifreleme\sifreleme\obj\Debug\sifreleme.pdb
+C:\Users\m_lez\OneDrive\Masaüstü\sifreleme\sifreleme\bin\Debug\sifreleme.exe.config
+C:\Users\m_lez\OneDrive\Masaüstü\sifreleme\sifreleme\bin\Debug\sifreleme.exe
+C:\Users\m_lez\OneDrive\Masaüstü\sifreleme\sifreleme\bin\Debug\sifreleme.pdb
+C:\Users\m_lez\OneDrive\Masaüstü\sifreleme\sifreleme\obj\Debug\sifreleme.csproj.AssemblyReference.cache
+C:\Users\m_lez\OneDrive\Masaüstü\sifreleme\sifreleme\obj\Debug\sifreleme.csproj.SuggestedBindingRedirects.cache
+C:\Users\m_lez\OneDrive\Masaüstü\sifreleme\sifreleme\obj\Debug\sifreleme.Form1.resources
+C:\Users\m_lez\OneDrive\Masaüstü\sifreleme\sifreleme\obj\Debug\sifreleme.Properties.Resources.resources
+C:\Users\m_lez\OneDrive\Masaüstü\sifreleme\sifreleme\obj\Debug\sifreleme.csproj.GenerateResource.cache
+C:\Users\m_lez\OneDrive\Masaüstü\sifreleme\sifreleme\obj\Debug\sifreleme.csproj.CoreCompileInputs.cache
+C:\Users\m_lez\OneDrive\Masaüstü\sifreleme\sifreleme\obj\Debug\sifreleme.exe
+C:\Users\m_lez\OneDrive\Masaüstü\sifreleme\sifreleme\obj\Debug\sifreleme.pdb
